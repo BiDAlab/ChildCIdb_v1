@@ -44,10 +44,13 @@ This block comprises **4 different tests** with different levels of difficulty t
     * **Filename:** `tap.txt`
     * **File structure:** A plain text file with tab-separated values where each value is `[x, y, timestamp, x_min, x_max, y_min, y_max, pressure, inMole, touching]` in that order.<br/>
 
-        | Value |                Meaning                | Value |                Meaning                |
-        |:-----:|:-------------------------------------:|:-----:|:-------------------------------------:|
-        |  `x`  | X-coordinate where the child touches. |  `x`  | X-coordinate where the child touches. |
-        |  `y`  | Y-coordinate where the child touches. |  `y`  | Y-coordinate where the child touches. |
+        | Value | Meaning | Value | Meaning |
+        |:-:|:-:|:-:|:-:|
+        | `x` | X-coordinate. | `y_min` | Minimum Y-coordinate of the position of the mole. |
+        | `y` | Y-coordinate. | `y_max` | Maximum Y-coordinate of the position of the mole. |
+        | `timestamp` | Time instant at which the sample was taken for that row. | `pressure` | Pressure exerted by the child [0,1]. |
+        | `x_min` | Minimum X-coordinate of the position of the mole. | `inMole` | Indicates whether the child touches the mole or not. |
+        | `x_max` | Maximum X-coordinate of the position of the mole. | `touching` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
         
 <br/><br/><br/>
 
