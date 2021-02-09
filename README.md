@@ -9,11 +9,13 @@
 - [Article](#article)
 - [Description of ChildCIdb_v1](#description-of-childCIdb_v1)
 - [Acquisition Process](#acquisition-process)
-    - [Touch Analysis](#touch-analysis)
+    - [Block 1: Emotional State Analysis](#block1)
+        - [Test 0: Tap and Reaction Time](#test1)
+    - [Block 2: Touch Analysis](#block2)
         - [Test 1: Tap and Reaction Time](#test1)
         - [Test 2: Drag and Drop](#test2)
         - [Test 3 and 4: Zoom in & Zoom out](#test34)
-    - [Stylus Analysis](#stylus-analysis)
+    - [Block 3: Stylus Analysis](#block3)
 - [Instructions for Downloading ChildCIdb_v1](#instructions-for-downloading-childCIdb_v1)
         
 ## Article
@@ -30,14 +32,14 @@ R. Tolosana, J.C. Ruiz-Garcia, R. Vera-Rodriguez, J. Herreros-Rodriguez, S. Rome
 
 The acquisition process comprises **7 different tests grouped in 3 main blocks**:
 
-![Emotional State Analysis](./media/block1.png)
+<a name="block1">![Emotional State Analysis](./media/block1.png)</a>
 
 Only 1 test in which three faces with different colours and facial expressions were represented on the screen, asking the children to touch one according to their emotional state using the finger as input.
 
 * **Filename:** `info.txt`
 * **File structure:** a *Python dictionary (JSON)* whose keys are `{"timestamp, "emotion", "laterality"}`.<br/><br/>
 
-<a name="touch-analysis">![Touch Analysis](./media/block2.png)</a>
+<a name="block2">![Touch Analysis](./media/block2.png)</a>
 
 This block comprises **4 different tests** with different levels of difficulty to see the ability of the children to perform different hand gestures and movements:
 
@@ -87,6 +89,6 @@ This block comprises **4 different tests** with different levels of difficulty t
 
 <br/><br/>
 
-<a name="stylus-analysis">![Stylus Analysis](./media/block3.png)</a>
+<a name="block3">![Stylus Analysis](./media/block3.png)</a>
 
 ## Instructions for Downloading ChildCIdb_v1
