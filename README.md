@@ -50,7 +50,7 @@ This block comprises **4 different tests** with different levels of difficulty t
     <p align="center"><img src='./media/test1.gif' width=640/></p>
     
     * **Filename:** `tap.txt`
-    * **File structure:** A plain text file with tab-separated values where each value is `[x, y, timestamp, x_min, x_max, y_min, y_max, pressure, inMole, action]` in that order.<br/>
+    * **File structure:** A plain text file with tab-separated values where each value is `[x, y, timestamp, x_min, x_max, y_min, y_max, pressure, inTarget, action]` in that order.<br/>
 
         | Value | Description | Value | Description |
         |:-:|:-:|:-:|:-:|
@@ -68,7 +68,7 @@ This block comprises **4 different tests** with different levels of difficulty t
     <p align="center"><img src='./media/test2.gif' width=640/></p>
     
     * **Filename:** `drag.txt`
-    * **File structure:** A plain text file with tab-separated values where each value is `[x, y, timestamp, x_min, x_max, y_min, y_max, pressure, inCarrot, action]` in that order.<br/>
+    * **File structure:** A plain text file with tab-separated values where each value is `[x, y, timestamp, x_min, x_max, y_min, y_max, pressure, inTarget, action]` in that order.<br/>
 
         | Value | Description | Value | Description |
         |:-:|:-:|:-:|:-:|
