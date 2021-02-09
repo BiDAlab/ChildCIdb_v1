@@ -57,7 +57,7 @@ This block comprises **4 different tests** with different levels of difficulty t
         | `x` | X-coordinate. | `y_min` | Minimum Y-coordinate of the position of the mole. |
         | `y` | Y-coordinate. | `y_max` | Maximum Y-coordinate of the position of the mole. |
         | `timestamp` | Time instant at which the sample was taken for that row. | `pressure` | Pressure exerted by the child [0,1]. |
-        | `x_min` | Minimum X-coordinate of the position of the mole. | `inMole` | Indicates whether the child touches the mole or not. |
+        | `x_min` | Minimum X-coordinate of the position of the mole. | `inTarget` | Indicates whether the child touches the mole or not. |
         | `x_max` | Maximum X-coordinate of the position of the mole. | `action` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
 
 <br/>
@@ -75,7 +75,7 @@ This block comprises **4 different tests** with different levels of difficulty t
         | `x` | X-coordinate. | `y_min` | Minimum Y-coordinate of the position of the rabbit. |
         | `y` | Y-coordinate. | `y_max` | Maximum Y-coordinate of the position of the rabbit. |
         | `timestamp` | Time instant at which the sample was taken for that row. | `pressure` | Pressure exerted by the child [0,1]. |
-        | `x_min` | Minimum X-coordinate of the position of the rabbit. | `inRabbit` | Indicates whether the child touches the rabbit or not. |
+        | `x_min` | Minimum X-coordinate of the position of the rabbit. | `inTarget` | Indicates whether the child touches the rabbit or not. |
         | `x_max` | Maximum X-coordinate of the position of the rabbit. | `action` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
 
 <br/>
@@ -86,7 +86,7 @@ This block comprises **4 different tests** with different levels of difficulty t
     <p align="center"><img src='./media/test3.gif' width=640/></p>
     
     * **Filename:** `more_zoom.txt` and `less_zoom.txt`
-    * **File structure:** A plain text file with tab-separated values where each value is `[x, y, timestamp, xCircle, yCircle, r1, r2, x_min, x_max, y_min, y_max, scale, pressure, inCircle, action]` in that order.<br/>
+    * **File structure:** A plain text file with tab-separated values where each value is `[x, y, timestamp, xCircle, yCircle, r1, r2, x_min, x_max, y_min, y_max, scale, pressure, inTarget, action]` in that order.<br/>
 
 <br/><br/>
 
