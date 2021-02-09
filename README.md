@@ -14,7 +14,7 @@
     - [Block 2: Touch Analysis](#block2)
         - [Test 1: Tap and Reaction Time](#test1)
         - [Test 2: Drag and Drop](#test2)
-        - [Test 3 and 4: Zoom in & Zoom out](#test34)
+        - [Test 3 and 4: Zoom-in and Zoom-out](#test34)
     - [Block 3: Stylus Analysis](#block3)
 - [Instructions for Downloading ChildCIdb_v1](#instructions-for-downloading-childCIdb_v1)
         
@@ -79,7 +79,7 @@ This block comprises **4 different tests** with different levels of difficulty t
 
 <br/>
 
-* ### <a name="test34">Test 3 and 4: Zoom in & Zoom out</a>
+* ### <a name="test34">Test 3 and 4: Zoom-in and Zoom-out</a>
     The goal is to enlarge/ the rabbit and put it inside the two red circles for a short time.
     
     <p align="center"><img src='./media/test3.gif' width=640/></p>
