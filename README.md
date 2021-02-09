@@ -72,6 +72,16 @@ This block comprises **4 different tests** with different levels of difficulty t
         | `x_min` | Minimum X-coordinate of the position of the rabbit. | `inRabbit` | Indicates whether the child touches the rabbit or not. |
         | `x_max` | Maximum X-coordinate of the position of the rabbit. | `touching` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
 
+<br/>
+
+* ### Test 3: Zoom in & Zoom out
+    The goal is to enlarge/ the rabbit and put it inside the two red circles for a short time.
+    
+    <p align="center"><img src='./media/test3.gif' width=640/></p>
+    
+    * **Filename:** `more_zoom.txt`
+    * **File structure:** A plain text file with tab-separated values where each value is `[x, y, timestamp, x_min, x_max, y_min, y_max, pressure, inCarrot, touching]` in that order.<br/>
+
 <br/><br/>
 
 ![Stylus Analysis](./media/block3.png)
