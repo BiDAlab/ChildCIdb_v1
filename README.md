@@ -38,13 +38,15 @@ Only 1 test in which three faces with different colours and facial expressions w
 
 This block comprises **4 different tests** with different levels of difficulty to see the ability of the children to perform different hand gestures and movements:
 
-* #### Test 1: Tap and Reaction Time
+* ### Test 1: Tap and Reaction Time
     The goal is to touch one mole at a time in order to see the ability of the children to perform tap gestures and their reaction times. Once the mole is touched, it disappears from that position and appears in another position of the screen.
+    
+    <p align="center"><img src='./media/test1.gif' width=640/></p>
     
     * **Filename:** `tap.txt`
     * **File structure:** A plain text file with tab-separated values where each value is `[x, y, timestamp, x_min, x_max, y_min, y_max, pressure, inMole, touching]` in that order.<br/>
 
-        | Value | Meaning | Value | Meaning |
+        | Value | Description | Value | Description |
         |:-:|:-:|:-:|:-:|
         | `x` | X-coordinate. | `y_min` | Minimum Y-coordinate of the position of the mole. |
         | `y` | Y-coordinate. | `y_max` | Maximum Y-coordinate of the position of the mole. |
