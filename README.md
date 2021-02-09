@@ -87,6 +87,6 @@ This block comprises **4 different tests** with different levels of difficulty t
 
 <br/><br/>
 
-![Stylus Analysis](./media/block3.png)
+<a name="stylus-analysis">![Stylus Analysis](./media/block3.png)</a>
 
 ## Instructions for Downloading ChildCIdb_v1
