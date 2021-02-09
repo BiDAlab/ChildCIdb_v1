@@ -10,7 +10,7 @@
 - [Description of ChildCIdb_v1](#description-of-childCIdb_v1)
 - [Acquisition Process](#acquisition-process)
     - [Block 1: Emotional State Analysis](#block1)
-        - [Test 0: Tap and Reaction Time](#test1)
+        - [Test 0: Emotional State Self-Assessment](#block1)
     - [Block 2: Touch Analysis](#block2)
         - [Test 1: Tap and Reaction Time](#test1)
         - [Test 2: Drag and Drop](#test2)
