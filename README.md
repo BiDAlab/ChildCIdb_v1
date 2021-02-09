@@ -59,7 +59,7 @@ This block comprises **4 different tests** with different levels of difficulty t
 
 <br/>
 
-* ### Test 2: Drag and Drop
+* ### <a name="test2">Test 2: Drag and Drop</a>
     The goal is to touch the carrot and swipe it to the rabbit.
     
     <p align="center"><img src='./media/test2.gif' width=640/></p>
@@ -77,7 +77,7 @@ This block comprises **4 different tests** with different levels of difficulty t
 
 <br/>
 
-* ### Test 3: Zoom in & Zoom out
+* ### <a name="test34">Test 3 and 4: Zoom in & Zoom out</a>
     The goal is to enlarge/ the rabbit and put it inside the two red circles for a short time.
     
     <p align="center"><img src='./media/test3.gif' width=640/></p>
