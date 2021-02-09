@@ -32,7 +32,7 @@ The acquisition process comprises **7 different tests grouped in 3 main blocks**
 Only 1 test in which three faces with different colours and facial expressions were represented on the screen, asking the children to touch one according to their emotional state using the finger as input.
 
 * **Filename:** `info.txt`
-* **File structure:** a *Python dictionary (JSON)* whose keys are `{"timestamp, "emotion", "laterality"}`.<br/><br/><br/>
+* **File structure:** a *Python dictionary (JSON)* whose keys are `{"timestamp, "emotion", "laterality"}`.<br/><br/>
 
 ![Touch Analysis](./media/block2.png)
 
@@ -53,8 +53,26 @@ This block comprises **4 different tests** with different levels of difficulty t
         | `timestamp` | Time instant at which the sample was taken for that row. | `pressure` | Pressure exerted by the child [0,1]. |
         | `x_min` | Minimum X-coordinate of the position of the mole. | `inMole` | Indicates whether the child touches the mole or not. |
         | `x_max` | Maximum X-coordinate of the position of the mole. | `touching` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
-        
-<br/><br/><br/>
+
+<br/>
+
+* ### Test 2: Drag and Drop
+    The goal is to touch the carrot and swipe it to the rabbit.
+    
+    <p align="center"><img src='./media/test2.gif' width=640/></p>
+    
+    * **Filename:** `drag.txt`
+    * **File structure:** A plain text file with tab-separated values where each value is `[x, y, timestamp, x_min, x_max, y_min, y_max, pressure, inCarrot, touching]` in that order.<br/>
+
+        | Value | Description | Value | Description |
+        |:-:|:-:|:-:|:-:|
+        | `x` | X-coordinate. | `y_min` | Minimum Y-coordinate of the position of the rabbit. |
+        | `y` | Y-coordinate. | `y_max` | Maximum Y-coordinate of the position of the rabbit. |
+        | `timestamp` | Time instant at which the sample was taken for that row. | `pressure` | Pressure exerted by the child [0,1]. |
+        | `x_min` | Minimum X-coordinate of the position of the rabbit. | `inRabbit` | Indicates whether the child touches the rabbit or not. |
+        | `x_max` | Maximum X-coordinate of the position of the rabbit. | `touching` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
+
+<br/><br/>
 
 ![Stylus Analysis](./media/block3.png)
 
