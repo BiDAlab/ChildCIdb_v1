@@ -2,7 +2,6 @@
     <img src="./media/bida.png" alt="BiDA Lab" title="Bida Lab" align="right" height="150" width="350" target="_blank"/>
 </a>
 
-
 # Child-Computer Interaction database: ChildCIdb_v1
 
 ## Table of content
@@ -21,6 +20,8 @@ R. Tolosana, J.C. Ruiz-Garcia, R. Vera-Rodriguez, J. Herreros-Rodriguez, S. Rome
 ## Description of ChildCIdb_v1
 
 **ChildCIdb v1 is the largest publicly available dataset to date for research in the *e-Learning* and *e-Health* areas**. The research carried out with this database aims at generating a better understanding of the cognitive and neuromotor development of children while interacting with mobile devices.
+
+
 
 ## Acquisition Process
 
