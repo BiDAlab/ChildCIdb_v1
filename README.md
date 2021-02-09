@@ -27,8 +27,15 @@ R. Tolosana, J.C. Ruiz-Garcia, R. Vera-Rodriguez, J. Herreros-Rodriguez, S. Rome
 
 The acquisition process comprises **7 different tests grouped in 3 main blocks**:
 
-### Finger as Acquisition tool
+### Block 1: Emotional State Analysis
 
-### Stylus as Acquisition tool
+Three faces with different colours and facial expressions were represented on the screen, asking the children to touch one according to their emotional state using the finger as input.
+
+* Filename: `info.txt`
+* The file structure is a *Python dictionary (JSON)* whose keys are `{"timestamp, "emotion", "laterality"}`.
+
+### Block 2: Touch Analysis
+
+### Block 2: Stylus Analysis
 
 ## Instructions for Downloading ChildCIdb_v1
