@@ -32,9 +32,24 @@ The acquisition process comprises **7 different tests grouped in 3 main blocks**
 Only 1 test in which three faces with different colours and facial expressions were represented on the screen, asking the children to touch one according to their emotional state using the finger as input.
 
 * **Filename:** `info.txt`
-* **File structure:** a *Python dictionary (JSON)* whose keys are `{"timestamp, "emotion", "laterality"}`.
+* **File structure:** a *Python dictionary (JSON)* whose keys are `{"timestamp, "emotion", "laterality"}`.<br/><br/><br/>
 
 ![Touch Analysis](./media/block2.png)
+
+This block comprises **4 different tests** with different levels of difficulty to see the ability of the children to perform different hand gestures and movements:
+
+* #### Test 1: Tap and Reaction Time
+    The goal is to touch one mole at a time in order to see the ability of the children to perform tap gestures and their reaction times. Once the mole is touched, it disappears from that position and appears in another position of the screen.
+    
+    * **Filename:** `tap.txt`
+    * **File structure:** A plain text file with tab-separated values where each value is `[x, y, timestamp, x_min, x_max, y_min, y_max, pressure, inMole, touching]` in that order.<br/>
+
+        | Value |                Meaning                | Value |                Meaning                |
+        |:-----:|:-------------------------------------:|:-----:|:-------------------------------------:|
+        |  `x`  | X-coordinate where the child touches. |  `x`  | X-coordinate where the child touches. |
+        |  `y`  | Y-coordinate where the child touches. |  `y`  | Y-coordinate where the child touches. |
+        
+<br/><br/><br/>
 
 ![Stylus Analysis](./media/block3.png)
 
