@@ -81,7 +81,7 @@ This block comprises **4 different tests** with different levels of difficulty t
 <br/>
 
 * ### <a name="test34">Test 3 and 4: Zoom-in and Zoom-out</a>
-    The goal is to enlarge/ the rabbit and put it inside the two red circles for a short time.
+    The goal is to enlarge/decrease the rabbit and put it inside the two red circles for a short time.
     
     <p align="center"><img src='./media/test3.gif' width=640/></p>
     
