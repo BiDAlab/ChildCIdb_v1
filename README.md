@@ -10,6 +10,7 @@
 - [Description of ChildCIdb_v1](#description-of-childCIdb_v1)
 - [Acquisition Process](#acquisition-process)
     - [Touch Analysis](#touch-analysis)
+        - [Test 1: Tap and Reaction Time](#test1)
     - [Finger as Acquisition tool](#finger-as-acquisition-tool)
     - [Stylus as Acquisition tool](#stylus-as-acquisition-tool)
 - [Instructions for Downloading ChildCIdb_v1](#instructions-for-downloading-childCIdb_v1)
@@ -39,7 +40,7 @@ Only 1 test in which three faces with different colours and facial expressions w
 
 This block comprises **4 different tests** with different levels of difficulty to see the ability of the children to perform different hand gestures and movements:
 
-* ### Test 1: Tap and Reaction Time
+* <a name="test1">### Test 1: Tap and Reaction Time</a>
     The goal is to touch one mole at a time in order to see the ability of the children to perform tap gestures and their reaction times. Once the mole is touched, it disappears from that position and appears in another position of the screen.
     
     <p align="center"><img src='./media/test1.gif' width=640/></p>
