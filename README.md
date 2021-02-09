@@ -9,6 +9,7 @@
 - [Article](#article)
 - [Description of ChildCIdb_v1](#description-of-childCIdb_v1)
 - [Acquisition Process](#acquisition-process)
+    - [Touch Analysis](#touch-analysis)
     - [Finger as Acquisition tool](#finger-as-acquisition-tool)
     - [Stylus as Acquisition tool](#stylus-as-acquisition-tool)
 - [Instructions for Downloading ChildCIdb_v1](#instructions-for-downloading-childCIdb_v1)
@@ -34,7 +35,7 @@ Only 1 test in which three faces with different colours and facial expressions w
 * **Filename:** `info.txt`
 * **File structure:** a *Python dictionary (JSON)* whose keys are `{"timestamp, "emotion", "laterality"}`.<br/><br/>
 
-![Touch Analysis](./media/block2.png)
+<a name="touch-analysis">![Touch Analysis](./media/block2.png)</a>
 
 This block comprises **4 different tests** with different levels of difficulty to see the ability of the children to perform different hand gestures and movements:
 
@@ -52,7 +53,7 @@ This block comprises **4 different tests** with different levels of difficulty t
         | `y` | Y-coordinate. | `y_max` | Maximum Y-coordinate of the position of the mole. |
         | `timestamp` | Time instant at which the sample was taken for that row. | `pressure` | Pressure exerted by the child [0,1]. |
         | `x_min` | Minimum X-coordinate of the position of the mole. | `inMole` | Indicates whether the child touches the mole or not. |
-        | `x_max` | Maximum X-coordinate of the position of the mole. | `touching` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
+        | `x_max` | Maximum X-coordinate of the position of the mole. | `action` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
 
 <br/>
 
@@ -70,7 +71,7 @@ This block comprises **4 different tests** with different levels of difficulty t
         | `y` | Y-coordinate. | `y_max` | Maximum Y-coordinate of the position of the rabbit. |
         | `timestamp` | Time instant at which the sample was taken for that row. | `pressure` | Pressure exerted by the child [0,1]. |
         | `x_min` | Minimum X-coordinate of the position of the rabbit. | `inRabbit` | Indicates whether the child touches the rabbit or not. |
-        | `x_max` | Maximum X-coordinate of the position of the rabbit. | `touching` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
+        | `x_max` | Maximum X-coordinate of the position of the rabbit. | `action` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
 
 <br/>
 
