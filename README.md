@@ -11,8 +11,9 @@
 - [Acquisition Process](#acquisition-process)
     - [Touch Analysis](#touch-analysis)
         - [Test 1: Tap and Reaction Time](#test1)
-    - [Finger as Acquisition tool](#finger-as-acquisition-tool)
-    - [Stylus as Acquisition tool](#stylus-as-acquisition-tool)
+        - [Test 2: Drag and Drop](#test2)
+        - [Test 3 and 4: Zoom in & Zoom out](#test34)
+    - [Stylus Analysis](#stylus-analysis)
 - [Instructions for Downloading ChildCIdb_v1](#instructions-for-downloading-childCIdb_v1)
         
 ## Article
