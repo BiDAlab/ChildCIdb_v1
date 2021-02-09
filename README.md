@@ -16,7 +16,7 @@
         - [Test 2: Drag and Drop](#test2)
         - [Test 3 and 4: Zoom-in and Zoom-out](#test34)
     - [Block 3: Stylus Analysis](#block3)
-- [Instructions for Downloading ChildCIdb_v1](#instructions-for-downloading-childCIdb_v1)
+- [Download ChildCIdb_v1](#download-childCIdb_v1)
         
 ## Article
 
@@ -91,4 +91,4 @@ This block comprises **4 different tests** with different levels of difficulty t
 
 <a name="block3">![Stylus Analysis](./media/block3.png)</a>
 
-## Instructions for Downloading ChildCIdb_v1
+## Download ChildCIdb_v1
