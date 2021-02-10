@@ -123,6 +123,22 @@ The third block aimed to analyse the ability of the children using the pen stylu
     | `y` | Y-coordinate. | `inTarget` | Indicates whether the child draws inside the spiral or not. |
     | `timestamp` | Time instant at which the sample was taken for that row. | `action` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
     
+<br/>
+
+* ### <a name="test6">Test 6: Drawing Test</a>
+    The goal is to colour the top and trunk of the tree in the best way possible trying to filling it completely and draw always inside the area remarked in black colour.
+    
+    <p align="center"><img src='./media/test6.gif' width=640/></p>
+    
+    * **Filename:** `test2.txt`
+    * **File structure:** A plain text file with tab-separated values where each column value is `[x, y, timestamp, pressure, inTarget, action]` in that order.<br/><br/>
+    
+    | Value | Description | Value | Description |
+    |:-:|:-:|:-:|:-:|
+    | `x` | X-coordinate. | `pressure` | Pressure exerted by the child [0,1]. |
+    | `y` | Y-coordinate. | `inTarget` | Indicates whether the child draws inside the tree or not. |
+    | `timestamp` | Time instant at which the sample was taken for that row. | `action` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
+    
 <br/><br/>
 
 ## Download ChildCIdb_v1
