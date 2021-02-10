@@ -42,7 +42,7 @@ This is the first version of an on-going dataset collected in collaboration with
 
 ## Acquisition Process
 
-The acquisition process comprises **7 different tests grouped in 3 main blocks: 1) Emotional State Analysis, 2) Touch Analysis, and 3) Stylus Analysis.**
+The acquisition process comprises **7 different tests grouped in 3 main blocks: *1) Emotional State Analysis, 2) Touch Analysis,*** and ***3) Stylus Analysis.***
 
 <a name="block1">![Emotional State Analysis](./media/block1.png)</a>
 
