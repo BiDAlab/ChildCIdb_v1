@@ -44,7 +44,7 @@ The acquisition process comprises **7 different tests grouped in 3 main blocks**
 
 <a name="block2">![Touch Analysis](./media/block2.png)</a>
 
-This block comprises **4 different tests** with different levels of difficulty to see the ability of the children to perform different hand gestures and movements:
+The second block comprises **4 different tests** with different levels of difficulty to see the ability of the children to perform different hand gestures and movements:
 
 * ### <a name="test1">Test 1: Tap and Reaction Time</a>
     The goal is to touch one mole at a time in order to see the ability of the children to perform tap gestures and their reaction times. Once the mole is touched, it disappears from that position and appears in another position of the screen.
