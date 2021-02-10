@@ -38,6 +38,8 @@ This is the first version of an on-going dataset collected in collaboration with
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | v1 | 18 months - 8 years | 438 | Finger/Stylus | Yes | Yes | Yes | Yes |
 
+<br/>
+
 ## Acquisition Process
 
 The acquisition process comprises **7 different tests grouped in 3 main blocks: 1) Emotional State Analysis, 2) Touch Analysis, and 3) Stylus Analysis.**
