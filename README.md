@@ -86,7 +86,7 @@ This block comprises **4 different tests** with different levels of difficulty t
     <p align="center"><img src='./media/test3.gif' width=640/></p>
     
     * **Filename:** `more_zoom.txt` and `less_zoom.txt`
-    * **File structure:** A plain text file with tab-separated values where each column value is `[x, y, timestamp, xCircle, yCircle, r1, r2, x_min, x_max, y_min, y_max, scale, pressure, inTarget, action]` in that order.<br/>
+    * **File structure:** A plain text file with tab-separated values where each column value is `[x, y, timestamp, xCircle, yCircle, r1, r2, x_min, x_max, y_min, y_max, scale, pressure, inTarget, action]` in that order.<br/><br/>
 
     | Value | Description | Value | Description |
     |:-:|:-:|:-:|:-:|
