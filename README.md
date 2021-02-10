@@ -36,7 +36,7 @@ The acquisition process comprises **7 different tests grouped in 3 main blocks: 
 
 <a name="block1">![Emotional State Analysis](./media/block1.png)</a>
 
-* ### <a name="test0">Test 0: Emotional State Self-Assessment</a>
+* ### <a name="test0">Test 0: Emotional State Self-Assessment (30 seconds)</a>
     Only 1 test in which three faces with different colours and facial expressions were represented on the screen, asking the children to touch one according to their emotional state using the finger as input.
 
     * **Filename:** `info.txt`
@@ -46,7 +46,7 @@ The acquisition process comprises **7 different tests grouped in 3 main blocks: 
 
 The second block comprises **4 different tests** with different levels of difficulty to see the ability of the children to perform different hand gestures and movements:
 
-* ### <a name="test1">Test 1: Tap and Reaction Time</a>
+* ### <a name="test1">Test 1: Tap and Reaction Time (30 seconds)</a>
     The goal is to touch one mole at a time in order to see the ability of the children to perform tap gestures and their reaction times. Once the mole is touched, it disappears from that position and appears in another position of the screen.
     
     <p align="center"><img src='./media/test1.gif' width=640/></p>
@@ -64,7 +64,7 @@ The second block comprises **4 different tests** with different levels of diffic
 
 <br/>
 
-* ### <a name="test2">Test 2: Drag and Drop</a>
+* ### <a name="test2">Test 2: Drag and Drop (30 seconds)</a>
     The goal is to touch the carrot and swipe it to the rabbit.
     
     <p align="center"><img src='./media/test2.gif' width=640/></p>
@@ -82,7 +82,7 @@ The second block comprises **4 different tests** with different levels of diffic
 
 <br/>
 
-* ### <a name="test34">Test 3 and 4: Zoom-in and Zoom-out</a>
+* ### <a name="test34">Test 3 and 4: Zoom-in and Zoom-out (30 seconds each)</a>
     The goal is to enlarge/decrease the rabbit and put it inside the two red circles for a short time.
     
     <p align="center">
@@ -109,7 +109,7 @@ The second block comprises **4 different tests** with different levels of diffic
 
 The third block aimed to analyse the ability of the children using the pen stylus by means of **2 different tests**:
 
-* ### <a name="test5">Test 5: Spiral Test</a>
+* ### <a name="test5">Test 5: Spiral Test (30 seconds)</a>
     The goal is to go across the spiral from the inner part to the outer part, trying to keep it always in the area remarked in black colour.
     
     <p align="center"><img src='./media/test5.gif' width=640/></p>
@@ -125,7 +125,7 @@ The third block aimed to analyse the ability of the children using the pen stylu
     
 <br/>
 
-* ### <a name="test6">Test 6: Drawing Test</a>
+* ### <a name="test6">Test 6: Drawing Test (2 minutes)</a>
     The goal is to colour the top and trunk of the tree in the best way possible trying to filling it completely and draw always inside the area remarked in black colour.
     
     <p align="center"><img src='./media/test6.gif' width=640/></p>
