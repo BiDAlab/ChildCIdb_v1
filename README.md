@@ -83,7 +83,10 @@ This block comprises **4 different tests** with different levels of difficulty t
 * ### <a name="test34">Test 3 and 4: Zoom-in and Zoom-out</a>
     The goal is to enlarge/decrease the rabbit and put it inside the two red circles for a short time.
     
-    <p align="center"><img src='./media/test3.gif' width=640/></p>
+    <p align="center">
+        <img src='./media/test3.gif' width=450/>
+        <img src='./media/test4.gif' width=450/>
+    </p>
     
     * **Filename:** `more_zoom.txt` and `less_zoom.txt`
     * **File structure:** A plain text file with tab-separated values where each column value is `[x, y, timestamp, xCircle, yCircle, r1, r2, x_min, x_max, y_min, y_max, scale, pressure, inTarget, action]` in that order.<br/><br/>
