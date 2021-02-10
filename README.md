@@ -88,6 +88,16 @@ This block comprises **4 different tests** with different levels of difficulty t
     * **Filename:** `more_zoom.txt` and `less_zoom.txt`
     * **File structure:** A plain text file with tab-separated values where each value is `[x, y, timestamp, xCircle, yCircle, r1, r2, x_min, x_max, y_min, y_max, scale, pressure, inTarget, action]` in that order.<br/>
 
+    | Value | Meaning | Value | Meaning |
+    |:-:|:-:|:-:|:-:|
+    | `x` | X-coordinate. | `x_min` | Minimum X-coordinate of the position of the rabbit. |
+    | `y` | Y-coordinate. | `x_max` | Maximum X-coordinate of the position of the rabbit. |
+    | `timestamp` | Time instant at which the sample was taken for that row. | `y_min` | Minimum Y-coordinate of the position of the rabbit. |
+    | `x_Circle` | X-coordinate of the centre of the circles. | `y_max` | Maximum Y-coordinate of the position of the rabbit. |
+    | `y_Circle` | Y-coordinate of the centre of the circles | `pressure` | Pressure exerted by the child [0,1]. |
+    | `r1` | Radius of the inner circle. | `inTarget` | Indicates when the rabbit is between the two red circles. |
+    | `r2` | Radius of the outer circle | `action` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down first finger, 3: pen-down second finger). |
+
 <br/><br/>
 
 <a name="block3">![Stylus Analysis](./media/block3.png)</a>
