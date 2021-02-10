@@ -26,7 +26,7 @@ R. Tolosana, J.C. Ruiz-Garcia, R. Vera-Rodriguez, J. Herreros-Rodriguez, S. Rome
 
 ## <a name="description">Description of ChildCIdb (v1)</a>
 
-**ChildCIdb (v1) is the largest publicly available dataset to date for research in the *e-Learning* and *e-Health* areas**. The research carried out with this database aims at generating a better understanding of the cognitive and neuromotor development of children while interacting with mobile devices.
+**ChildCIdb (v1) is the largest publicly available dataset to date for research in the *e-Learning* and *e-Health* areas**. The research carried out with this database aims at generating a better understanding of the cognitive and neuromotor development of children while interacting with mobile devices.<br/><br/>
 
 [![Child-Computer Interaction database: ChildCIdb_v1](./media/miniature.png)](https://youtu.be/5vnkYEqWVEA "Child-Computer Interaction database: ChildCIdb_v1")
 
@@ -37,8 +37,6 @@ This is the first version of an on-going dataset collected in collaboration with
 | Version | Ages  of participants | #Participants | Acquisition tool | Emotion | ADHD | Grades | Previous experience |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | v1 | 18 months - 8 years | 438 | Finger/Stylus | Yes | Yes | Yes | Yes |
-
-<br/>
 
 ## Acquisition Process
 
