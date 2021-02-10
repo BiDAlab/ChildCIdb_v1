@@ -86,8 +86,8 @@ The second block comprises **4 different tests** with different levels of diffic
     The goal is to enlarge/decrease the rabbit and put it inside the two red circles for a short time.
     
     <p align="center">
-        <img src='./media/test3.gif' width=425/>
-        <img src='./media/test4.gif' width=425/>
+        <img src='./media/test3.gif' width=400/>
+        <img src='./media/test4.gif' width=400/>
     </p>
     
     * **Filename:** `more_zoom.txt` and `less_zoom.txt`
