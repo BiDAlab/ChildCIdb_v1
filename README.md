@@ -142,3 +142,5 @@ The third block aimed to analyse the ability of the children using the pen stylu
 <br/><br/>
 
 ## Download ChildCIdb_v1
+
+**(Not completed)** - INSTRUCTIONS FOR DOWNLOADING... (License, send email, etc.) Similar to [DeepSignDB](https://github.com/BiDAlab/DeepSignDB).
