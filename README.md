@@ -32,7 +32,7 @@ This is the first version of an on-going dataset collected in collaboration with
 
 **Regarding the gender, 50% of the children were male/female whereas for the handedness, 84% were right-handed**. In addition, other information taken into account has been: ***i)* the previous experience of the children with mobile devices, *ii)* the children’s grades at the school, and *iii)* information regarding the attention-deficit/hyperactivity disorder (ADHD).**<br/>
 
-| Version | Ages  of participants | # Participants | Acquisition tool | Emotion | ADHD | Grades | Prior experience |
+| Version | Ages  of participants | # Participants | Acquisition tool | Emotion | ADHD | Grades | Previous experience |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | v1 | 18 months - 8 years | 438 | Finger/Stylus | Yes | Yes | Yes | Yes |
 
