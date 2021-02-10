@@ -36,7 +36,7 @@ This is the first version of an on-going dataset collected in collaboration with
 
 | Version | Ages  of participants | #Participants | Acquisition tool | Emotion | ADHD | Grades | Previous experience |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| v1 | 18 months - 8 years | 438 | Finger/Stylus | Yes | Yes | Yes | Yes |
+| v1 | 18 months - 8 years | 438 | Finger/Stylus | ✔️ | ✔️ | ✔️ | ✔️ |
 
 <br/>
 
