@@ -16,6 +16,8 @@
         - [Test 2: Drag and Drop](#test2)
         - [Test 3 and 4: Zoom-in and Zoom-out](#test34)
     - [Block 3: Stylus Analysis](#block3)
+        - [Test 5: Spiral Test](#test5)
+        - [Test 6: Drawing Test](#test6)
 - [Download ChildCIdb_v1](#download-childCIdb_v1)
         
 ## Article
@@ -104,5 +106,23 @@ This block comprises **4 different tests** with different levels of difficulty t
 <br/><br/>
 
 <a name="block3">![Stylus Analysis](./media/block3.png)</a>
+
+The third block aimed to analyse the ability of the children using the pen stylus by means of **2 different tests**:
+
+* ### <a name="test5">Test 5: Spiral Test</a>
+    The goal is to go across the spiral from the inner part to the outer part, trying to keep it always in the area remarked in black colour.
+    
+    <p align="center"><img src='./media/test5.gif' width=640/></p>
+    
+    * **Filename:** `test1.txt`
+    * **File structure:** A plain text file with tab-separated values where each column value is `[x, y, timestamp, pressure, inTarget, action]` in that order.<br/><br/>
+    
+    | Value | Description | Value | Description |
+    |:-:|:-:|:-:|:-:|
+    | `x` | X-coordinate. | `pressure` | Pressure exerted by the child [0,1]. |
+    | `y` | Y-coordinate. | `inTarget` | Indicates whether the child draws inside the spiral or not. |
+    | `timestamp` | Time instant at which the sample was taken for that row. | `action` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
+    
+<br/><br/>
 
 ## Download ChildCIdb_v1
