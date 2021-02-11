@@ -72,7 +72,7 @@ The second block comprises **4 different tests** with different levels of diffic
         | `x_min` | Minimum X-coordinate value for the mole. | `inTarget` | Indicates whether the child touches the mole or not. |
         | `x_max` | Maximum X-coordinate value for the mole. | `action` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
 
-        In order to facilitate the comprehension of some values, the subset of `x_min, x_max, y_min, y_min` help us to identify the mole within the test coordinate system. Using these 4 values, a bounding box is formed which indicates the position, height and width of the mole.
+        In order to facilitate the comprehension of some values, the subset of `x_min, x_max, y_min, y_min` help us to identify the mole within the test coordinate system. Using these 4 values, a bounding box is formed which indicates the position, height and width of the mole on the plane.
         
         <p align="center"><img src='./media/bb_test1.png' width=320/></p>
 
