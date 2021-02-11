@@ -19,6 +19,7 @@
         - [Test 5: Spiral Test](#test5)
         - [Test 6: Drawing Test](#test6)
 - [Download ChildCIdb (v1)](#download)
+- [References](#references)
         
 ## Article
 
@@ -179,3 +180,5 @@ The third block aimed to analyse the ability of the children using the pen stylu
 5. After you finish the download, please notify by email to [**atvs@uam.es**](mailto:atvs@uam.es) that you have successfully completed the transaction.
 
 6. For more information, please contact: [**atvs@uam.es**](mailto:atvs@uam.es)
+
+## <a name="references">References</a>
