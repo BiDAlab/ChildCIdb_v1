@@ -72,6 +72,8 @@ The second block comprises **4 different tests** with different levels of diffic
         | `x_min` | Minimum X-coordinate of the position of the mole. | `inTarget` | Indicates whether the child touches the mole or not. |
         | `x_max` | Maximum X-coordinate of the position of the mole. | `action` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
 
+        In order to facilitate the comprehension of some values, the subset of x_min, x_max, y_min, y_min help us to identify the mole within the test coordinate system. Using these 4 values, a bounding box is formed which indicates the position, height and width of the mole.
+
 <br/>
 
 * ### <a name="test2">Test 2: Drag and Drop (30 seconds)</a>
@@ -87,7 +89,7 @@ The second block comprises **4 different tests** with different levels of diffic
         | `x` | X-coordinate. | `y_min` | Minimum Y-coordinate of the position of the rabbit. |
         | `y` | Y-coordinate. | `y_max` | Maximum Y-coordinate of the position of the rabbit. |
         | `timestamp` | Time instant at which the sample was taken for that row. | `pressure` | Pressure exerted by the child [0,1]. |
-        | `x_min` | Minimum X-coordinate of the position of the rabbit. | `inTarget` | Indicates whether the child touches the rabbit or not. |
+        | `x_min` | Minimum X-coordinate of the position of the rabbit. | `inTarget` | Indicates whether the child touches the rabbit with the carrot or not. |
         | `x_max` | Maximum X-coordinate of the position of the rabbit. | `action` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
 
 <br/>
