@@ -74,7 +74,7 @@ The second block comprises **4 different tests** with different levels of diffic
 
         In order to facilitate the comprehension of some values, the subset of `x_min, x_max, y_min, y_min` help us to identify the mole within the test coordinate system. Using these 4 values, a bounding box is formed which indicates the position, height and width of the mole on the plane.
         
-        <p align="center"><img src='./media/bb_test1.png' width=320/></p>
+        <p align="center"><img src='./media/bb_mole.png' width=320/></p>
 
 <br/>
 
