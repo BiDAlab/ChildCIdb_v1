@@ -182,3 +182,9 @@ The third block aimed to analyse the ability of the children using the pen stylu
 6. For more information, please contact: [**atvs@uam.es**](mailto:atvs@uam.es)
 
 ## <a name="references">References</a>
+
+For further information on the database and on different applications where it has been used, we refer the reader to:
+
+- [ArXiv2021_ChildCI] R. Tolosana, J.C. Ruiz-Garcia, R. Vera-Rodriguez, J. Herreros-Rodriguez, S. Romero-Tapiador, A. Morales and J. Fierrez, "[Child-Computer Interaction: Recent Works, New Dataset, and Age Detection](https://arxiv.org/abs/2102.01405)", *arXiv preprint arXiv:2102.01405*, 2021.
+
+All these articles are publicly available in the [publications](http://atvs.ii.uam.es/atvs/listpublications.do) section of the BiDA group webpage. Please remember to reference the above articles on any work made public, whatever the form, based directly or indirectly on any part of the ChildCIdb (v1) database.
