@@ -113,10 +113,10 @@ The second block comprises **4 different tests** with different levels of diffic
 
     | Value | Description | Value | Description |
     |:-:|:-:|:-:|:-:|
-    | `x` | X-coordinate. | `x_min` | Minimum X-coordinate of the position of the rabbit. |
-    | `y` | Y-coordinate. | `x_max` | Maximum X-coordinate of the position of the rabbit. |
-    | `timestamp` | Time instant at which the sample was taken for that row. | `y_min` | Minimum Y-coordinate of the position of the rabbit. |
-    | `x_Circle` | X-coordinate of the centre of the circles. | `y_max` | Maximum Y-coordinate of the position of the rabbit. |
+    | `x` | X-coordinate. | `x_min` | Minimum X-coordinate value for the rabbit. |
+    | `y` | Y-coordinate. | `x_max` | Maximum X-coordinate value for the rabbit. |
+    | `timestamp` | Time instant at which the sample was taken for that row. | `y_min` | Minimum Y-coordinate value for the rabbit. |
+    | `x_Circle` | X-coordinate of the centre of the circles. | `y_max` | Maximum Y-coordinate value for the rabbit. |
     | `y_Circle` | Y-coordinate of the centre of the circles | `pressure` | Pressure exerted by the child [0,1]. |
     | `r1` | Radius of the inner circle. | `inTarget` | Indicates when the rabbit is between the two red circles. |
     | `r2` | Radius of the outer circle | `action` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down first finger, 3: pen-down second finger). |
