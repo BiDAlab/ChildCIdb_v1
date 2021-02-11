@@ -164,7 +164,7 @@ The third block aimed to analyse the ability of the children using the pen stylu
 
 1. Download your corresponding license agreement:
     
-    - [Download license agreement](http://atvs.ii.uam.es/atvs/), send by email one signed and scanned copy to atvs@uam.es according to the instructions given in point 2.
+    - [Download license agreement](http://atvs.ii.uam.es/atvs/licenses/ChildCIdb_v1_License.pdf), send by email one signed and scanned copy to atvs@uam.es according to the instructions given in point 2.
 
 2. Send an email to [**atvs@uam.es**](mailto:atvs@uam.es), as follows:
 
