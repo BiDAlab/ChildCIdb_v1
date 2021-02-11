@@ -94,7 +94,7 @@ The second block comprises **4 different tests** with different levels of diffic
         | `x_min` | Minimum X-coordinate value for the rabbit. | `inTarget` | Indicates whether the child touches the rabbit with the carrot or not. |
         | `x_max` | Maximum X-coordinate value for the rabbit. | `action` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
 
-        In order to facilitate the comprehension of some values, the subset of `x_min, x_max, y_min, y_min` help us to identify the rabbit within the test coordinate system. Using these 4 values, a bounding box is formed which indicates the position, height and width of the rabbit on the plane. *This concept can be applied equally to tests 3 and 4.*
+        In order to facilitate the comprehension of some values, the subset of `x_min, x_max, y_min, y_min` help us to identify the rabbit within the test coordinate system. Using these 4 values, a bounding box is formed which indicates the position, height and width of the rabbit on the plane. ***This concept can be applied equally to tests 3 and 4.***
         
         <p align="center"><img src='./media/bb_rabbit.png' width=320/></p>
 
