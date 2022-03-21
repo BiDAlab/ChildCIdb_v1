@@ -31,7 +31,7 @@ R. Tolosana, J.C. Ruiz-Garcia, R. Vera-Rodriguez, J. Herreros-Rodriguez, S. Rome
 
 [![Child-Computer Interaction database: ChildCIdb_v1](./media/miniature.png)](https://youtu.be/5vnkYEqWVEA "Child-Computer Interaction database: ChildCIdb_v1")
 
-This is the first version of an on-going dataset collected in collaboration with the school [GSD Las Suertes](https://www.gsdeducacion.com/colegios.aspx?colegio=5) in Madrid, Spain. **It comprises one capturing session with 438 children in total in the ages from 18 months to 8 years, grouped in 8 different educational levels** according to the Spanish education system. 
+This is the first version of an on-going dataset collected in collaboration with the school [GSD Las Suertes](https://www.gsdeducacion.com/Colegios/GsdLasSuertes) in Madrid, Spain. **It comprises one capturing session with 438 children in total in the ages from 18 months to 8 years, grouped in 8 different educational levels** according to the Spanish education system. 
 
 **Regarding the gender, 50% of the children were male/female whereas for the handedness, 84% were right-handed**. In addition, other information taken into account has been: ***i)* the previous experience of the children with mobile devices, *ii)* the children’s grades at the school, and *iii)* information regarding the attention-deficit/hyperactivity disorder (ADHD).**<br/><br/>
 
