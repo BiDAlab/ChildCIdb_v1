@@ -51,7 +51,7 @@ The acquisition process comprises **7 different tests grouped in 3 main blocks: 
     Only 1 test in which three faces with different colours and facial expressions were represented on the screen, asking the children to touch one according to their emotional state using the finger as input.
 
     * **Filename:** `info.txt`
-    * **File structure:** a *Python dictionary (JSON)* whose keys are `{"timestamp, "emotion", "handedness"}`.<br/><br/>
+    * **File structure:** a *Python dictionary (JSON)* whose keys are `{"timestamp, "emotion", "laterality"}`.<br/><br/>
 
 <a name="block2">![Touch Analysis](./media/block2.png)</a>
 
