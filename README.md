@@ -147,7 +147,7 @@ The second block aimed to analyse the ability of the children to use the pen sty
 <br/>
 
 * ### <a name="test6">Test 6: Drawing Test (2 minutes)</a>
-    The goal is to colour the top and trunk of the tree in the best way possible trying to filling it completely and draw always inside the area remarked in black colour.
+    The goal is to colour the top and trunk of the tree in the best way possible trying to fill it completely and draw always inside the area remarked in black colour.
     
     <p align="center"><img src='./media/test6.gif' width=640/></p>
     
