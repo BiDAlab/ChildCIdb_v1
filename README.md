@@ -29,7 +29,7 @@ R. Tolosana, J.C. Ruiz-Garcia, R. Vera-Rodriguez, J. Herreros-Rodriguez, S. Rome
 
 **ChildCIdb (v1) is the largest publicly available dataset to date for research in the *e-Learning* and *e-Health* areas**. The research carried out with this database aims at generating a better understanding of the cognitive and neuromotor development of children while interacting with mobile devices.<br/>
 
-[![Child-Computer Interaction database: ChildCIdb_v1](./media/miniature.png)](https://youtu.be/5vnkYEqWVEA "Child-Computer Interaction database: ChildCIdb_v1")
+[![Child-Computer Interaction database: ChildCIdb_v1](./media/miniature.png)](https://www.youtube.com/watch?v=oMRsdV8QcZY "Child-Computer Interaction database: ChildCIdb_v1")
 
 This is the first version of an on-going dataset collected in collaboration with the school [GSD Las Suertes](https://www.gsdeducacion.com/Colegios/GsdLasSuertes) in Madrid, Spain. **It comprises one capturing session with 438 children in total in the ages from 18 months to 8 years, grouped in 8 different educational levels** according to the Spanish education system. 
 
