@@ -128,7 +128,7 @@ The first block comprises **4 different tests** with different levels of difficu
 
 <a name="block2">![Stylus Analysis](./media/block2.png)</a>
 
-The second block aimed to analyse the ability of the children using the pen stylus by means of **2 different tests**:
+The second block aimed to analyse the ability of the children to use the pen stylus by means of **2 different tests**:
 
 * ### <a name="test5">Test 5: Spiral Test (30 seconds)</a>
     The goal is to go across the spiral from the inner part to the outer part, trying to keep it always in the area remarked in black colour.
