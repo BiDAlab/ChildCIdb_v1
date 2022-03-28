@@ -9,8 +9,7 @@
 - [Article](#article)
 - [Description of ChildCIdb (v1)](#description)
 - [Acquisition Process](#acquisition-process)
-    - [Block 1: Emotional State Analysis](#block1)
-        - [Test 0: Emotional State Self-Assessment](#test0)
+    - [Emotional State Self-Assessment](#emotion)
     - [Block 2: Touch Analysis](#block2)
         - [Test 1: Tap and Reaction Time](#test1)
         - [Test 2: Drag and Drop](#test2)
@@ -43,14 +42,16 @@ This is the first version of an on-going dataset collected in collaboration with
 
 ## Acquisition Process
 
-The acquisition process comprises **7 different tests grouped in 3 main blocks: *1) Emotional State Analysis, 2) Touch Analysis, and 3) Stylus Analysis.***
+We first capture the emotional state of the children before the beginning of the acquisition:
 
 <a name="emotion">![Emotional State Analysis](./media/emotion.png)</a>
+
+The acquisition process comprises **6 different tests grouped in 2 main blocks: *1) Touch Analysis, and 2) Stylus Analysis.***
 
 * ### <a name="test0">Emotional State Self-Assessment (10 seconds)</a>
     Three faces with different colours and facial expressions were represented on the screen, asking the children to touch one according to their emotional state using the finger as input.
 
-    * **Filename:** `info.txt`
+    * **Filename:** `info.json`
     * **File structure:** a *Python dictionary (JSON)* whose keys are `{"timestamp, "emotion", "laterality"}`.<br/><br/>
 
 <a name="block1">![Touch Analysis](./media/block1.png)</a>
