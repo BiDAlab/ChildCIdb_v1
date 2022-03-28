@@ -45,15 +45,15 @@ This is the first version of an on-going dataset collected in collaboration with
 
 The acquisition process comprises **7 different tests grouped in 3 main blocks: *1) Emotional State Analysis, 2) Touch Analysis, and 3) Stylus Analysis.***
 
-<a name="block1">![Emotional State Analysis](./media/block1.png)</a>
+<a name="emotion">![Emotional State Analysis](./media/emotion.png)</a>
 
-* ### <a name="test0">Test 0: Emotional State Self-Assessment (10 seconds)</a>
-    Only 1 test in which three faces with different colours and facial expressions were represented on the screen, asking the children to touch one according to their emotional state using the finger as input.
+* ### <a name="test0">Emotional State Self-Assessment (10 seconds)</a>
+    Three faces with different colours and facial expressions were represented on the screen, asking the children to touch one according to their emotional state using the finger as input.
 
     * **Filename:** `info.txt`
     * **File structure:** a *Python dictionary (JSON)* whose keys are `{"timestamp, "emotion", "laterality"}`.<br/><br/>
 
-<a name="block2">![Touch Analysis](./media/block2.png)</a>
+<a name="block1">![Touch Analysis](./media/block1.png)</a>
 
 The second block comprises **4 different tests** with different levels of difficulty to see the ability of the children to perform different hand gestures and movements:
 
@@ -125,7 +125,7 @@ The second block comprises **4 different tests** with different levels of diffic
 
 <br/><br/>
 
-<a name="block3">![Stylus Analysis](./media/block3.png)</a>
+<a name="block2">![Stylus Analysis](./media/block2.png)</a>
 
 The third block aimed to analyse the ability of the children using the pen stylus by means of **2 different tests**:
 
