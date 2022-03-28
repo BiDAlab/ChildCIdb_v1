@@ -13,7 +13,7 @@
     - [Block 1: Touch Analysis](#block1)
         - [Test 1: Tap and Reaction Time](#test1)
         - [Test 2: Drag and Drop](#test2)
-        - [Test 3 and 4: Zoom-in and Zoom-out](#test34)
+        - [Tests 3 and 4: Zoom-in and Zoom-out](#test34)
     - [Block 2: Stylus Analysis](#block2)
         - [Test 5: Spiral Test](#test5)
         - [Test 6: Drawing Test](#test6)
@@ -102,7 +102,7 @@ The first block comprises **4 different tests** with different levels of difficu
 
 <br/>
 
-* ### <a name="test34">Test 3 and 4: Zoom-in and Zoom-out (30 seconds each)</a>
+* ### <a name="test34">Tests 3 and 4: Zoom-in and Zoom-out (30 seconds each)</a>
     The goal is to enlarge/decrease the rabbit and put it inside the two red circles for a short time.
     
     <p align="center">
