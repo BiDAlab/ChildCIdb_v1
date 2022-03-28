@@ -27,7 +27,7 @@ R. Tolosana, J.C. Ruiz-Garcia, R. Vera-Rodriguez, J. Herreros-Rodriguez, S. Rome
 
 ## <a name="description">Description of ChildCIdb (v1)</a>
 
-**ChildCIdb (v1) is the largest publicly available dataset to date for research in the *e-Learning* and *e-Health* areas**. The research carried out with this database aims at generating a better understanding of the cognitive and neuromotor development of children while interacting with mobile devices.<br/>
+**ChildCIdb (v1) is the largest publicly available dataset to date for research in the *e-Learning* and *e-Health* areas**. The research carried out with this database aims to generate a better understanding of children's cognitive and neuromotor development while interacting with mobile devices.<br/>
 
 [![Child-Computer Interaction database: ChildCIdb_v1](./media/miniature.png)](https://www.youtube.com/watch?v=oMRsdV8QcZY "Child-Computer Interaction database: ChildCIdb_v1")
 
