@@ -2,12 +2,13 @@
     <img src="./media/bida.png" alt="BiDA Lab" title="Bida Lab" align="right" height="150" width="350" target="_blank"/>
 </a>
 
-# Child-Computer Interaction database: ChildCIdb (v1)
+# Child-Computer Interaction database: ChildCIdb_v1
 
 ## Table of content
 
 - [Article](#article)
-- [Description of ChildCIdb (v1)](#description)
+- [Download ChildCIdb_v1](#download)
+- [Description of ChildCIdb_v1](#description)
 - [Acquisition Process](#acquisition-process)
     - [Emotional State Self-Assessment](#acquisition-process)
     - [Block 1: Touch Analysis](#block1)
@@ -17,16 +18,35 @@
     - [Block 2: Stylus Analysis](#block2)
         - [Test 5: Spiral Test](#test5)
         - [Test 6: Drawing Test](#test6)
-- [Download ChildCIdb (v1)](#download)
 - [References](#references)
         
 ## Article
 
 R. Tolosana, J.C. Ruiz-Garcia, R. Vera-Rodriguez, J. Herreros-Rodriguez, S. Romero-Tapiador, A. Morales and J. Fierrez, **"Child-Computer Interaction: Recent Works, New Dataset, and Age Detection"**, *IEEE Transactions on Emerging Topics in Computing*, doi: [10.1109/TETC.2022.3150836](https://www.doi.org/10.1109/TETC.2022.3150836), 2022.
 
-## <a name="description">Description of ChildCIdb (v1)</a>
+## <a name="download">Download ChildCIdb_v1</a>
 
-**ChildCIdb (v1) is the largest publicly available dataset to date for research in the *e-Learning* and *e-Health* areas**. The research carried out with this database aims to generate a better understanding of children's cognitive and neuromotor development while interacting with mobile devices.<br/>
+1. Download your corresponding license agreement:
+    
+    - [**Download license agreement**](http://atvs.ii.uam.es/atvs/licenses/ChildCIdb_v1_License.pdf), send by email one signed and scanned copy to **atvs@uam.es** according to the instructions given in point 2.
+
+2. Send an email to [**atvs@uam.es**](mailto:atvs@uam.es), as follows:
+
+    - _Subject:_ **[DATABASE download: ChildCIdb_v1]**
+
+    - _Body:_ Your name, e-mail, telephone number, organization, postal mail, purpose for which you will use the database, time and date at which you sent the email with the signed license agreement.
+
+3. Once the email copy of the license agreement has been received at ATVS, you will receive an email with a username, a password, and a time slot to download the database.
+
+4. [**Download the database**](http://atvs.ii.uam.es/atvs/intranet/), for which you will need to provide the authentication information given in step 
+
+5. After you finish the download, please notify by email to [**atvs@uam.es**](mailto:atvs@uam.es) that you have successfully completed the transaction.
+
+6. For more information, please contact: [**atvs@uam.es**](mailto:atvs@uam.es)
+
+## <a name="description">Description of ChildCIdb_v1</a>
+
+**ChildCIdb_v1 is the largest publicly available dataset to date for research in the *e-Learning* and *e-Health* areas**. The research carried out with this database aims to generate a better understanding of children's cognitive and neuromotor development while interacting with mobile devices.<br/>
 
 [![Child-Computer Interaction database: ChildCIdb_v1](./media/miniature.png)](https://www.youtube.com/watch?v=oMRsdV8QcZY "Child-Computer Interaction database: ChildCIdb_v1")
 
@@ -162,30 +182,10 @@ The second block aimed to analyse the ability of the children to use the pen sty
     
 <br/><br/>
 
-## <a name="download">Download ChildCIdb (v1)</a>
-
-1. Download your corresponding license agreement:
-    
-    - [**Download license agreement**](http://atvs.ii.uam.es/atvs/licenses/ChildCIdb_v1_License.pdf), send by email one signed and scanned copy to **atvs@uam.es** according to the instructions given in point 2.
-
-2. Send an email to [**atvs@uam.es**](mailto:atvs@uam.es), as follows:
-
-    - _Subject:_ **[DATABASE download: ChildCIdb (v1)]**
-
-    - _Body:_ Your name, e-mail, telephone number, organization, postal mail, purpose for which you will use the database, time and date at which you sent the email with the signed license agreement.
-
-3. Once the email copy of the license agreement has been received at ATVS, you will receive an email with a username, a password, and a time slot to download the database.
-
-4. [**Download the database**](http://atvs.ii.uam.es/atvs/intranet/), for which you will need to provide the authentication information given in step 
-
-5. After you finish the download, please notify by email to [**atvs@uam.es**](mailto:atvs@uam.es) that you have successfully completed the transaction.
-
-6. For more information, please contact: [**atvs@uam.es**](mailto:atvs@uam.es)
-
 ## <a name="references">References</a>
 
 For further information on the database and on different applications where it has been used, we refer the reader to:
 
 - R. Tolosana, J.C. Ruiz-Garcia, R. Vera-Rodriguez, J. Herreros-Rodriguez, S. Romero-Tapiador, A. Morales and J. Fierrez, **"Child-Computer Interaction: Recent Works, New Dataset, and Age Detection"**, *IEEE Transactions on Emerging Topics in Computing*, doi: [10.1109/TETC.2022.3150836](https://www.doi.org/10.1109/TETC.2022.3150836), 2022.
 
-All these articles are publicly available in the [publications](http://atvs.ii.uam.es/atvs/listpublications.do) section of the BiDA group webpage. Please remember to reference the above articles on any work made public, whatever the form, based directly or indirectly on any part of the ChildCIdb (v1) database.
+All these articles are publicly available in the [publications](http://atvs.ii.uam.es/atvs/listpublications.do) section of the BiDA group webpage. Please remember to reference the above articles on any work made public, whatever the form, based directly or indirectly on any part of the ChildCIdb_v1 database.
