@@ -19,10 +19,14 @@
         - [Test 5: Spiral Test](#test5)
         - [Test 6: Drawing Test](#test6)
 - [References](#references)
-        
+
+<br/>
+
 ## Article
 
 R. Tolosana, J.C. Ruiz-Garcia, R. Vera-Rodriguez, J. Herreros-Rodriguez, S. Romero-Tapiador, A. Morales and J. Fierrez, **"Child-Computer Interaction: Recent Works, New Dataset, and Age Detection"**, *IEEE Transactions on Emerging Topics in Computing*, doi: [10.1109/TETC.2022.3150836](https://www.doi.org/10.1109/TETC.2022.3150836), 2022.
+
+<br/>
 
 ## <a name="download">Download ChildCIdb_v1</a>
 
@@ -43,6 +47,8 @@ R. Tolosana, J.C. Ruiz-Garcia, R. Vera-Rodriguez, J. Herreros-Rodriguez, S. Rome
 5. After you finish the download, please notify by email to [**atvs@uam.es**](mailto:atvs@uam.es) that you have successfully completed the transaction.
 
 6. For more information, please contact: [**atvs@uam.es**](mailto:atvs@uam.es)
+
+<br/>
 
 ## <a name="description">Description of ChildCIdb_v1</a>
 
@@ -180,7 +186,7 @@ The second block aimed to analyse the ability of the children to use the pen sty
     | `y` | Y-coordinate. | `inTarget` | Indicates whether the child draws inside the tree or not. |
     | `timestamp` | Time instant at which the sample was taken for that row. | `action` | Indicates the type of action the child is performing  (0: starts pen-down, 1: starts pen-up, 2: pen-down). |
     
-<br/><br/>
+<br/>
 
 ## <a name="references">References</a>
 
