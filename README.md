@@ -194,4 +194,4 @@ For further information on the database and on different applications where it h
 
 - R. Tolosana, J.C. Ruiz-Garcia, R. Vera-Rodriguez, J. Herreros-Rodriguez, S. Romero-Tapiador, A. Morales and J. Fierrez, **"Child-Computer Interaction: Recent Works, New Dataset, and Age Detection"**, *IEEE Transactions on Emerging Topics in Computing*, doi: [10.1109/TETC.2022.3150836](https://www.doi.org/10.1109/TETC.2022.3150836), 2022.
 
-All these articles are publicly available in the [publications](http://atvs.ii.uam.es/atvs/listpublications.do) section of the BiDA group webpage. Please remember to reference the above articles on any work made public, whatever the form, based directly or indirectly on any part of the ChildCIdb_v1 database.
+All these articles are publicly available in the [publications](https://bidalab.eps.uam.es/listpublications) section of the BiDA group webpage. Please remember to reference the above articles on any work made public, whatever the form, based directly or indirectly on any part of the ChildCIdb_v1 database.
